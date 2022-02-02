@@ -24,6 +24,14 @@
   color: white;
 }
 
+.alt-bg {
+  background-color: rgb(54, 34, 9);
+}
+
+.alt-bg-m {
+  background-color: rgb(73, 44, 201);
+}
+
 .App-link {
   color: #61dafb;
 }
